@@ -224,15 +224,15 @@ Drones that reach `goal` stop appearing in subsequent turns — they're delivere
 
 | Map | Drones | Turns achieved | Target |
 |---|---|---|---|
-| Linear path | 2 | `<fill in>` | ≤ 6 |
-| Simple fork | 3 | `<fill in>` | ≤ 6 |
-| Basic capacity | 4 | `<fill in>` | ≤ 8 |
-| Dead end trap | 5 | `<fill in>` | ≤ 15 |
-| Circular loop | 6 | `<fill in>` | ≤ 20 |
-| Priority puzzle | 4 | `<fill in>` | ≤ 12 |
-| Maze nightmare | 8 | `<fill in>` | ≤ 45 |
-| Capacity hell | 12 | `<fill in>` | ≤ 60 |
-| Ultimate challenge | 15 | `<fill in>` | ≤ 35 |
+| Linear path | 2 | ≤ 6 |
+| Simple fork | 3 | ≤ 6 |
+| Basic capacity | 4 | ≤ 8 |
+| Dead end trap | 5 | ≤ 15 |
+| Circular loop | 6 | ≤ 20 |
+| Priority puzzle | 4 | ≤ 12 |
+| Maze nightmare | 8 | ≤ 45 |
+| Capacity hell | 12 | ≤ 60 |
+| Ultimate challenge | 15 | ≤ 45 |
 
 ---
 
