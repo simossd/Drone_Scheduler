@@ -222,8 +222,8 @@ Drones that reach `goal` stop appearing in subsequent turns — they're delivere
 
 ## Performance
 
-| Map | Drones | Turns achieved | Target |
-|---|---|---|---|
+| Map | Drones | Target |
+|---|---|---|
 | Linear path | 2 | ≤ 6 |
 | Simple fork | 3 | ≤ 6 |
 | Basic capacity | 4 | ≤ 8 |
