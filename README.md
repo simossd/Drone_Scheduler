@@ -244,6 +244,7 @@ Drones that reach `goal` stop appearing in subsequent turns — they're delivere
 - [PEP 257 — Docstring Conventions](https://peps.python.org/pep-0257/)
 - [mypy documentation](https://mypy.readthedocs.io/)
 
+
 ---
 
 ## Built With
