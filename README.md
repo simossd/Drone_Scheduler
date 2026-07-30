@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <mjabri>.*
+*This project has been created as part of the 42 curriculum by mjabri.*
 
 <div align="center">
 
